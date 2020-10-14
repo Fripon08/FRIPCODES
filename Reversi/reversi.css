@@ -1,0 +1,33 @@
+body{
+    background-color: rebeccapurple;
+}
+
+table{
+    margin: auto;
+    border: solid 10px burlywood;
+}
+
+td, tr{
+    border: solid black 3px;
+}
+
+.carre{
+	height: 50px;
+    width: 50px;
+    background-color: green;
+    color: green;
+}
+
+.cercle{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    background: black;
+    margin: auto;
+}
+
+h1{
+    margin: auto;
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+}
